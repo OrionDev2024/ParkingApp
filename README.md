@@ -39,7 +39,7 @@ Ver demostración completa / Watch full demo
 ### ⏱️ Dashboard
 
 <p align="center">
-  <img src="scrennshots/dashboard.png" width="700">
+  <img src="screenshots/dashboard.png" width="700">
 </p>
 
 ---
